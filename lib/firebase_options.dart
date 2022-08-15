@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAQ9ncc02MNvHhe_SZ43rEmNR2j3_Suh_M',
-    appId: '1:685316143399:android:40b2329a3ae25de05e9102',
-    messagingSenderId: '685316143399',
-    projectId: 'absensi-6f79a',
-    storageBucket: 'absensi-6f79a.appspot.com',
+    apiKey: 'AIzaSyB4RvP03zqVh7PGE3ocRHu2oKgt4iUL4zw',
+    appId: '1:81470909476:android:0df422e9570a8a2f533cb1',
+    messagingSenderId: '81470909476',
+    projectId: 'absensi-c7755',
+    storageBucket: 'absensi-c7755.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6CLUEtCmQSF53WLM1S0JgyvQ75Qrbsa0',
-    appId: '1:685316143399:ios:0b1a3ba0112200465e9102',
-    messagingSenderId: '685316143399',
-    projectId: 'absensi-6f79a',
-    storageBucket: 'absensi-6f79a.appspot.com',
-    iosClientId: '685316143399-ulatabienpn643273iavduacara1ivko.apps.googleusercontent.com',
+    apiKey: 'AIzaSyB52yxo1q0zQQN8_UBM53RRDFicscZu1-k',
+    appId: '1:81470909476:ios:f9456d1b9ec89e60533cb1',
+    messagingSenderId: '81470909476',
+    projectId: 'absensi-c7755',
+    storageBucket: 'absensi-c7755.appspot.com',
+    iosClientId: '81470909476-tm6hbq8dbdvjgngch04i7e8tvdb0rvm0.apps.googleusercontent.com',
     iosBundleId: 'com.taqnia.absensi',
   );
 }

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "685316143399",
-    "project_id": "absensi-6f79a",
-    "storage_bucket": "absensi-6f79a.appspot.com"
+    "project_number": "81470909476",
+    "project_id": "absensi-c7755",
+    "storage_bucket": "absensi-c7755.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:685316143399:android:40b2329a3ae25de05e9102",
+        "mobilesdk_app_id": "1:81470909476:android:0df422e9570a8a2f533cb1",
         "android_client_info": {
           "package_name": "com.taqnia.absensi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "685316143399-r6pvf0jh33utbp93q74hug3hq2elu8q7.apps.googleusercontent.com",
+          "client_id": "81470909476-i45t8tkhsfl8rkgtuodn46bk7pnv8oqe.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAQ9ncc02MNvHhe_SZ43rEmNR2j3_Suh_M"
+          "current_key": "AIzaSyB4RvP03zqVh7PGE3ocRHu2oKgt4iUL4zw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "685316143399-r6pvf0jh33utbp93q74hug3hq2elu8q7.apps.googleusercontent.com",
+              "client_id": "81470909476-i45t8tkhsfl8rkgtuodn46bk7pnv8oqe.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
